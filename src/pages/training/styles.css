@@ -1,0 +1,48 @@
+.training-container{
+    width: 660px;
+    height: 550px;
+    background-color: rgba(200,200,200, 0.7);
+    position: relative;
+    top:30px;
+    left: 200px;
+    text-align: center;
+    border-radius: 6px;
+    box-shadow: 1px 5px 5px rgba(20,20,20, 0.8);
+}
+
+
+
+.competit-description{
+    width: 300px;
+    line-height: 20px;
+    background-color: rgba(100,100,100, 0);
+    text-align: left;
+    padding-left: 2em;
+    font-weight: normal;
+}
+
+.competit-title{
+    width: 100px;
+    background-color: rgba(100,100,100, 0);
+}
+
+.training-table{
+    width: 620px;
+
+    position: relative;
+    top:20px;
+    left: 20px;
+    background-color: rgba(100,100,100, 0);
+    font-weight: 700;
+
+}
+
+.training-thead th{
+    background-color: aqua;
+    text-align: left;
+    padding-left: 30px;
+    color: #000;
+}
+
+
+

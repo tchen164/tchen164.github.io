@@ -1,0 +1,97 @@
+.radio-type{
+    width: 20px;
+    height: 20px;
+}
+
+.step-box{
+    display: flex;
+    width: 740px;
+    background-color: #fefefeda;
+    position: relative;
+    top:50px;
+    border: solid 1px #000;
+    border-radius: 2px;
+}
+.radio-box{
+    width: 140px;
+    height: 80px;
+    line-height: 30px;
+    text-align: center;
+    padding-top: 30px;
+    padding-left: 30px;
+}
+.options-text-box{
+    display: inline-block;
+    height: 35px;
+    line-height: 35px;
+    position: relative;
+    bottom: 3px;
+    left: 10px;
+}
+.step-content{
+    width:740px;
+    height: 400px;
+    background-color: beige;
+    border: solid 1px #000;
+    border-top:none;
+    position: relative;
+    top:50px;
+    left: 200px;
+    padding-top: 50px;
+}
+
+.step-item-title{
+    height: 40px;
+    line-height: 40px;
+    font-size: 18px;
+    font-weight: 600;
+    margin-left: 100px;
+    margin-bottom: 10px;
+
+}
+
+.input-item-box{
+    height: 45px;
+    line-height: 25px;
+    padding: 10px;
+    margin-left: 100px;
+    display: flex;
+}
+
+.input-item-label-box{
+    width:300px;
+    text-align: right;
+    padding-right: 20px;
+}
+
+.next-btn{
+    height: 25px;
+    line-height: 25px;
+    box-sizing: content-box;
+    text-align: center;
+    width: 100px;
+    border-radius: 2px;
+}
+
+.input-item-label-box-4{
+  width:300px;
+    text-align: left;
+    padding-right: 20px;
+    clear: both;
+
+}
+
+.btn-box{
+  height: 45px;
+    line-height: 25px;
+    padding: 10px;
+    margin-left: 100px;
+    display: flex;
+  position: relative;
+  top: 100px;
+
+}
+
+.finish-box{
+  text-align: center;
+}

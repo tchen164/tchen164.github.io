@@ -1,0 +1,25 @@
+.about-content {
+  width: 660px;
+  height: 550px;
+  background-color: rgba(200, 200, 200, 0.7);
+  position: relative;
+  top: 30px;
+
+  text-align: center;
+  border-radius: 6px;
+  box-shadow: 1px 5px 5px rgba(20, 20, 20, 0.8);
+  overflow-y: scroll;
+}
+
+.about-p {
+  text-align: left;
+  margin: 10px;
+  text-indent: 2em;
+}
+
+.about-img {
+  width: 500px;
+  margin: 20px;
+  border-radius: 5px;
+  box-shadow: 2px 6px 6px #444444;
+}

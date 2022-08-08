@@ -1,0 +1,111 @@
+
+@import '~leaflet/dist/leaflet.css';
+.App {
+  text-align: center;
+  overflow: hidden;
+}
+
+.App-header {
+  width: 100%;
+  background-color: #fefefe;
+  height: 120px;
+  line-height: 120px;
+  box-shadow: 2px 5px 5px #ccc;
+
+
+}
+
+.logo {
+  width: 200px;
+  padding: 30px;
+  line-height: 60px;
+  text-align: center;
+  float: left;
+}
+
+
+.nav-bar {
+  display: flex;
+}
+
+.nav {
+
+  width: 120px;
+  text-align: center;
+
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+.miu {
+  margin: 0;
+  min-height: 100vh;
+  background-image:url('./assets/home1.jpg') ;
+}
+
+a:link {
+  color: #444;
+  text-decoration: none;
+}
+
+a:visited {
+  color: #444;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #aaa;
+  text-decoration: none;
+}
+
+a:active {
+  color: #aaa;
+  text-decoration: none;
+}
+
+.Footer{
+  height: 140px;
+  line-height: 140px;
+  width: 100%;
+  position: fixed;
+  bottom:0px;
+  z-index:10000;
+  background-image: url('./assets/wave.png');
+  background-position: left;
+  background-position:bottom;
+  display: flex;
+}
+
+.followpng{
+  width: 200px;
+  margin-left: 200px;
+}
+
+.cutt{
+  margin-left: 200px;
+  color: #fff;
+  font-size: 36px;
+  margin-top: 10px;
+}
+
+.cuno{
+  margin-top: 20px;
+  height: 40px;
+  line-height: 60px;
+  color: #fff;
+  font-size: 20px;
+}
+
+.cuem{
+  height:40px;
+  line-height: 60px;
+  color: #fff;
+  font-size: 20px;
+}
+
+.cop{
+  margin-left: 50px;
+  margin-top: 10px;
+}
